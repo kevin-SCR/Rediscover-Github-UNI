@@ -1,0 +1,5 @@
+name: Saludo en cada push
+on: push
+jobs:
+  hola:
+    runs-on: ubuntu-lasted
